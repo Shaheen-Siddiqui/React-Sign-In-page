@@ -1,0 +1,42 @@
+
+body{
+  background-color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container{
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  width: 300px;
+
+}
+.img{
+  height: 20px;
+  width: 20px;
+  padding-right: 30px;
+}
+.but{
+  width: 186px;
+  background-color: blueviolet;
+}
+.item{
+  font-size: 15px;
+  
+}
+.item2{
+  box-shadow: 0 8px 6px -6px grey;
+
+
+}
+
+
+
+
+
+
+
